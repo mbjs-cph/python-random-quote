@@ -12,3 +12,5 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+Nadaan dost se danaa dushman behtar hai
+Aaj ka kamm kal par mat choro
